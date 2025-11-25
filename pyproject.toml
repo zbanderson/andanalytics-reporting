@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+
+[project]
+name = "andanalytics-reporting"
+version = "0.1.0"
+description = "Internal analytics & reporting engine for &Analytics"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [
+    { name="Zachary Anderson" }
+]
+
+dependencies = [
+    "pandas",
+    "plotly",
+    "numpy",
+]
+
+[tool.setuptools.packages.find]
+include = ["andanalytics_reporting"]

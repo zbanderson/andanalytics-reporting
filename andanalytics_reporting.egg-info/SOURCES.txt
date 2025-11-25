@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+andanalytics_reporting/__init__.py
+andanalytics_reporting/data_loader.py
+andanalytics_reporting/reporting.py
+andanalytics_reporting/tearsheet_html_format.py
+andanalytics_reporting.egg-info/PKG-INFO
+andanalytics_reporting.egg-info/SOURCES.txt
+andanalytics_reporting.egg-info/dependency_links.txt
+andanalytics_reporting.egg-info/requires.txt
+andanalytics_reporting.egg-info/top_level.txt
